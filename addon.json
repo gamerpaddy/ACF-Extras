@@ -1,0 +1,12 @@
+{
+	"title"		:	"ACF Additional Engines Mod",
+	"type"		:	"model",
+	"tags"		:	[ "fun", "build" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
+
